@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Github\LearnOpenGL3\Tutorials\tutorial12_extensions\tutorial12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Github\LearnOpenGL3\Tutorials\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Github\LearnOpenGL3\Tutorials\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Github\LearnOpenGL3\Tutorials\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Github\LearnOpenGL3\Tutorials\common\objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Github\LearnOpenGL3\Tutorials\common\vboindexer.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Github\LearnOpenGL3\Tutorials\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Github\LearnOpenGL3\Tutorials\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Github\LearnOpenGL3\Tutorials\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Github\LearnOpenGL3\Tutorials\common\objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Github\LearnOpenGL3\Tutorials\common\vboindexer.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Github\LearnOpenGL3\Tutorials\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="F:\Github\LearnOpenGL3\Tutorials\tutorial12_extensions\StandardShading.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="F:\Github\LearnOpenGL3\Tutorials\tutorial12_extensions\StandardShading_WithSyntaxErrors.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1458FC4E-45A2-3078-ABB7-47545493575D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{BE8413F7-B15C-3167-B245-E6AE39981098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{3923D2EA-E56B-3A13-9C3D-BB4C0A67CF4A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

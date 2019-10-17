@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckFunctionExists.c
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckTypeSize.c.in
+F:/Github/LearnOpenGL3/Tutorials-bin-vc15-x64/CMakeFiles/CheckTypeSize/OFF64_T.c
+F:/Github/LearnOpenGL3/Tutorials/external/assimp-3.0.1270/contrib/zlib/CMakeLists.txt
